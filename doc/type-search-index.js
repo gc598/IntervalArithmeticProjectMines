@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"intervals","l":"Functions"}]
